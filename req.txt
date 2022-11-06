@@ -7,6 +7,7 @@ sudo apt install python3
 sudo apt install python3-pip
 sudo apt install python3-rpi.gpio python-rpi.gpio (for led)
 wget wget https://raspberrytips.nl/files/tm1637.py (for timer)
+git clone https://github.com/adafruit/Adafruit_python_CharLCD.git(for display)
 
 #To view pins
 pinout
